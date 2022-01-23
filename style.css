@@ -53,7 +53,7 @@ centre center.head{
 }
 
 centre center.head a img{
-    background-color: white;
+    /*background-color: white;*/
     
     padding-left: 6%;
     padding-right: 5%;
@@ -89,4 +89,11 @@ p{
     font-size: 35px;
     font-family: 'Anton', cursive;
     color: white;
+}
+
+hr{
+    color: white;
+    background-color: white;
+    border: white;
+    height: 18px;
 }
